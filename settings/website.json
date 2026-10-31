@@ -1,0 +1,22 @@
+{
+  "siteName": "Mulla Research Library",
+  "owner": "Mulla Md Anas Ahemad",
+  "username": "animatoruchiha1-blip",
+  "repository": "mulla-research-content",
+  "defaultLanguage": "en",
+  "defaultResearchStatus": "draft",
+  "title": "Mulla Research Library",
+  "tagline": "Professional Research Publication & Digital Knowledge Platform",
+  "description": "An independent research platform dedicated to exploring Artificial Intelligence, Technology, Business, Science, Cyber Security and emerging innovations through research, logical reasoning and continuous learning.",
+  "researcherName": "Mulla Md Anas Ahemad",
+  "researcherRole": "AI Researcher & Software Developer",
+  "email": "anas.mulla.research@gmail.com",
+  "motto": "Learn Continuously. Think Logically. Research Deeply. Create Meaningfully.",
+  "socials": {
+    "github": "https://github.com/animatoruchiha1-blip",
+    "linkedin": "https://linkedin.com/in/anasahemad",
+    "twitter": "https://twitter.com/anasahemad",
+    "orcid": "https://orcid.org/0009-0000-0000-0000",
+    "googleScholar": "https://scholar.google.com"
+  }
+}

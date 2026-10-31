@@ -1,0 +1,82 @@
+[
+  {
+    "id": "cat-ai",
+    "name": "Artificial Intelligence",
+    "slug": "artificial-intelligence",
+    "description": "Autonomous agents, neural reasoning architectures, large language models, prompt topologies, and cognitive systems.",
+    "iconName": "Cpu",
+    "color": "#245B91"
+  },
+  {
+    "id": "cat-ml",
+    "name": "Machine Learning",
+    "slug": "machine-learning",
+    "description": "Supervised, unsupervised, and reinforcement learning paradigms, predictive analytics, and statistical algorithms.",
+    "iconName": "Sparkles",
+    "color": "#4F46E5"
+  },
+  {
+    "id": "cat-business",
+    "name": "Business & Management",
+    "slug": "business-and-management",
+    "description": "Strategic management, entrepreneurial models, organizational operations, and market dynamics.",
+    "iconName": "Briefcase",
+    "color": "#C5A46D"
+  },
+  {
+    "id": "cat-finance",
+    "name": "Finance & Accounting",
+    "slug": "finance-and-accounting",
+    "description": "Intermediate commerce, algorithmic double-entry ledgers, financial intelligence, and balance sheet integrity.",
+    "iconName": "TrendingUp",
+    "color": "#059669"
+  },
+  {
+    "id": "cat-software",
+    "name": "Software Development",
+    "slug": "software-development",
+    "description": "Full-stack architectures, system design, modern web frameworks, distributed computing, and code quality.",
+    "iconName": "Code",
+    "color": "#2563EB"
+  },
+  {
+    "id": "cat-cybersec",
+    "name": "Cyber Security",
+    "slug": "cyber-security",
+    "description": "Zero-trust architectures, defensive network engineering, threat modeling, cryptography, and application security.",
+    "iconName": "Shield",
+    "color": "#142B4A"
+  },
+  {
+    "id": "cat-science",
+    "name": "Science & Technology",
+    "slug": "science-and-technology",
+    "description": "Empirical scientific inquiry, first-principles logic, analytical deduction, and technological innovation.",
+    "iconName": "Atom",
+    "color": "#0D9488"
+  },
+  {
+    "id": "cat-cs",
+    "name": "Computer Science",
+    "slug": "computer-science",
+    "description": "Algorithmic computational theory, data structures, discrete mathematics, and compiler design.",
+    "iconName": "Terminal",
+    "color": "#7C3AED"
+  },
+  {
+    "id": "cat-education",
+    "name": "Education & Research",
+    "slug": "education-and-research",
+    "description": "Pedagogical methodologies, academic publishing, research rigor, and mentor-guided continuous learning.",
+    "iconName": "GraduationCap",
+    "color": "#D97706"
+  },
+  {
+    "id": "cat-media",
+    "name": "Digital Media & Video Editing",
+    "slug": "digital-media-and-video-editing",
+    "description": "Visual storytelling, animation workflows, multimedia computing, digital typography, and media production.",
+    "iconName": "Film",
+    "color": "#DC2626"
+  }
+]
